@@ -3,6 +3,12 @@
 <p align="center">
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mekatronika+dan+Kecerdasan+Buatan;MKB+3B;OOP;Muhammad+Fariduddin+Athar;Agung+Satria+Pamungkas;Galih+Multi+Lidzikri;Nabila+Nur+Banafsyah;Geralda+Livia+Nugraha;Ahmad+Syahdi+alkhawarizmi&center=true&width=500&height=50"></a>
+</p>
+
+<br>
+
 <img align="center" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 **Yang beranggotakan :**
